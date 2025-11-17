@@ -41,5 +41,5 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
 /* Contact form (placeholder only) */
 document.querySelector("form").addEventListener("submit", (e) => {
     e.preventDefault();
-    alert("Message sent! (This is a front-end only form.)");
+    alert("Message sent!");
 });
