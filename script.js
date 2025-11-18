@@ -3,7 +3,7 @@
 const roles = [
     "Full Stack Software Engineer",
     "AI/ML Engineer",
-    "Certified Cloud Developer"
+    "Cloud Developer"
 ];
 let roleIdx = 0, charIdx = 0, isDeleting = false;
 
